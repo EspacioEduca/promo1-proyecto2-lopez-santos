@@ -1,0 +1,87 @@
+body{
+    background-image: linear-gradient(rgb(62, 180, 33),white );
+    margin: 0px
+}
+img{
+    width: 160px
+}
+.box{
+    background-color: black;
+    color: antiquewhite;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    font-size: 17px;
+}
+.box2{
+    background-image: linear-gradient(rgb(79, 185, 52), rgb(0, 0, 0));
+    font-size: 21px;
+    text-align: center;
+    color: aliceblue;
+    margin: 8px;
+    padding: 1px;
+}
+
+.foto{
+    width: 800px;
+    height: 500px;
+}
+
+.box3{
+    margin: 2%;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.box4{
+    margin: 2%;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.box5{
+    margin: 2%;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.box6{
+    margin: 2%;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.box7{
+   margin: 2%;
+   border-bottom: 2px solid rgb(0, 0, 0);
+   
+}
+
+.box8{
+    margin: 2px;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+h1{
+    font-family: Microsoft YaHei UI;
+}
+
+h4{
+    font-size: 23px;
+}
+
+p{
+    font-size: 15px;
+}
+
+h5{
+    font-size: 20px;
+}
+
+.facebook{
+    width: 8px;
+    height: 110px;
+    display: flex;
+}
+
+
+
+
